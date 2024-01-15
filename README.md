@@ -1,1 +1,1 @@
-# archlinux-installation-guide
+# arch-chroot-helper
