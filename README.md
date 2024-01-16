@@ -6,4 +6,4 @@ cd arch-chroot-helper
 
 chmod +x arch-chroot-operations.sh
 
-sudo ./arch-chroot-operations.sh
+./arch-chroot-operations.sh
